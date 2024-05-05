@@ -1,0 +1,24 @@
+employeeNumber,lastName,firstName,jobTitle,totalSales
+1370,Hernandez,Gerard,"Sales Rep",1258577.81
+1165,Jennings,Leslie,"Sales Rep",1081530.54
+1401,Castillo,Pamela,"Sales Rep",868220.55
+1501,Bott,Larry,"Sales Rep",732096.79
+1504,Jones,Barry,"Sales Rep",704853.91
+1323,Vanauf,George,"Sales Rep",669377.05
+1612,Marsh,Peter,"Sales Rep",584593.76
+1337,Bondur,Loui,"Sales Rep",569485.75
+1611,Fixter,Andy,"Sales Rep",562582.59
+1216,Patterson,Steve,"Sales Rep",505875.42
+1286,Tseng,"Foon Yue","Sales Rep",488212.67
+1621,Nishi,Mami,"Sales Rep",457110.07
+1702,Gerard,Martin,"Sales Rep",387477.47
+1188,Firrelli,Julie,"Sales Rep",386663.20
+1166,Thompson,Leslie,"Sales Rep",347533.03
+1002,Murphy,Diane,President,NULL
+1056,Patterson,Mary,"VP Sales",NULL
+1076,Firrelli,Jeff,"VP Marketing",NULL
+1088,Patterson,William,"Sales Manager (APAC)",NULL
+1102,Bondur,Gerard,"Sale Manager (EMEA)",NULL
+1143,Bow,Anthony,"Sales Manager (NA)",NULL
+1619,King,Tom,"Sales Rep",NULL
+1625,Kato,Yoshimi,"Sales Rep",NULL
