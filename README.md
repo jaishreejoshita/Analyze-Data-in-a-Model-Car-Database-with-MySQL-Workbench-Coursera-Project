@@ -1,8 +1,4 @@
 # Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench-Coursera-Projects
-Data Analysis for Inventory Optimization at Mint Classics
-
-*# Analyze Data in a Model Car Database with MySQL Workbench*
-
 
 *Project Description:*
 This project aims to conduct data analysis in the context of the fictional company Mint Classics. I will be playing the role of a novice data analyst assisting the company in addressing inventory and storage facility-related issues. The problem at hand involves the decision to close one of the existing storage facilities.
